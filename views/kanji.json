@@ -1,0 +1,1118 @@
+{
+  kanji: [
+    /*{
+      character: "豆",
+      jlpt: "n1",
+      kunyomi: {
+        "hiragana": ["まめ"]
+      },
+      onyomi: {
+        "katakana": ["トウ", "ズ"]
+      },
+      meaning: {
+        english: ["beans", "pea", "midget"],
+      },
+      compounds: [
+        {
+          "kanji": "",
+          "hiragana": "",
+          "english": [""],
+          "common": ""
+        },
+      ]
+    }*/
+    {
+      character: "理",
+      jlpt: "n4",
+      kunyomi: {
+        "hiragana": ["ことわり"],
+      },
+      meaning: {
+        "english": ["logic", "arrangement", "reason", "justice", "truth"],
+      },
+      onyomi: {
+        "katakana": ["リ"]
+      },
+      compounds: [
+        {
+          "kanji": "理科",
+          "hiragana": "りか",
+          "english": ["science"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理解",
+          "hiragana": "りかい",
+          "english": ["understanding", "comprehension", "appreciation", "sympathy"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理学",
+          "hiragana": "りがく",
+          "english": ["physical science (e.g. chemistry, biology, etc.)", "physics", "lixue (Song-era Chinese philosophy)", "philosophy"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理学部",
+          "hiragana": "りがくぶ",
+          "english": ["department of science"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理系",
+          "hiragana": "りけい",
+          "english": ["science"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理事",
+          "hiragana": "りじ",
+          "english": ["director", "board of directors"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理性",
+          "hiragana": "りせい",
+          "english": ["reason", "sense"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理想",
+          "hiragana": "りそう",
+          "english": ["ideal", "dream"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理念",
+          "hiragana": "りねん",
+          "english": ["idea"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理由",
+          "hiragana": "りゆう",
+          "english": ["reason", "pretext", "motive"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理論",
+          "hiragana": "りろん",
+          "english": ["theory", "reason"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理屈",
+          "hiragana": "りくつ",
+          "english": ["theory", "reason"],
+          "common": "vc"
+        },
+        {
+          "kanji": "管理",
+          "hiragana": "かんり",
+          "english": ["control", "management(e.g. of a business"],
+          "common": "vc"
+        },
+        {
+          "kanji": "義理",
+          "hiragana": "ぎり",
+          "english": ["duty", "sense of duty", "honor", "honour", "decency", "courtesy", "debt of gratitude", "social obligation"],
+          "common": "vc"
+        },
+        {
+          "kanji": "経理",
+          "hiragana": "けいり",
+          "english": ["management", "accounting"],
+          "common": "vc"
+        },
+        {
+          "kanji": "原理",
+          "hiragana": "げんり",
+          "english": ["principle", "theory", "fundamental truth"],
+          "common": "vc"
+        },
+        {
+          "kanji": "合理",
+          "hiragana": "ごうり",
+          "english": ["rational"],
+          "common": "vc"
+        },
+        {
+          "kanji": "修理",
+          "hiragana": "しゅうり",
+          "english": ["repairing", "mending", "servicing"],
+          "common": "vc"
+        },
+        {
+          "kanji": "処理",
+          "hiragana": "しょり",
+          "english": ["processing", "dealing with", "treatment", "disposition", "disposal"],
+          "common": "vc"
+        },
+        {
+          "kanji": "心理",
+          "hiragana": "しんり",
+          "english": ["state of mind", "mentality", "psychology"],
+          "common": "vc"
+        },
+        {
+          "kanji": "真理",
+          "hiragana": "しんり",
+          "english": ["truth"],
+          "common": "vc"
+        },
+        {
+          "kanji": "推理",
+          "hiragana": "すいり",
+          "english": ["reasoning", "inference", "mystery or detective genre (movie, novel, etc.)"],
+          "common": "vc"
+        },
+        {
+          "kanji": "整理",
+          "hiragana": "せいり",
+          "english": ["sorting", "arrangement", "organization", "putting in order", "adjustment", "regulation", "liquidation"],
+          "common": "vc"
+        },
+        {
+          "kanji": "総理",
+          "hiragana": "そうり",
+          "english": ["prime minister", "leader", "overseer (of national affairs)", "president"],
+          "common": "vc"
+        },
+        {
+          "kanji": "代理",
+          "hiragana": "だいり",
+          "english": ["representation", "agency", "proxy", "deputy", "agent", "attorney", "substitute", "alternate", "acting (principal, etc.)"],
+          "common": "vc"
+        },
+        {
+          "kanji": "地理",
+          "hiragana": "ちり",
+          "english": ["geography"],
+          "common": "vc"
+        },
+        {
+          "kanji": "調理",
+          "hiragana": "ちょうり",
+          "english": ["cooking", "food preparation"],
+          "common": "vc"
+        },
+        {
+          "kanji": "道理",
+          "hiragana": "どうり",
+          "english": ["reason", "truth"],
+          "common": "vc"
+        },
+        {
+          "kanji": "物理",
+          "hiragana": "ぶつり",
+          "english": ["physics", "law of nature"],
+          "common": "vc"
+        },
+        {
+          "kanji": "無理",
+          "hiragana": "むり",
+          "english": ["unreasonable", "impossible", "overdoing"],
+          "common": "vc"
+        },
+        {
+          "kanji": "無理やり",
+          "hiragana": "むりやり",
+          "english": ["forcibly", "against one's will"],
+          "common": "vc"
+        },
+        {
+          "kanji": "料理",
+          "hiragana": "りょうり",
+          "english": ["cooking", "cookery", "cuisine", "dealing with something", "handling", "administration", "management"],
+          "common": "vc"
+        },
+        {
+          "kanji": "倫理",
+          "hiragana": "りんり",
+          "english": ["ethics", "morals"],
+          "common": "vc"
+        },
+        {
+          "kanji": "論理",
+          "hiragana": "ろんり",
+          "english": ["logic", "logical"],
+          "common": "vc"
+        },
+        {
+          "kanji": "論理的",
+          "hiragana": "ろんりてき",
+          "english": ["logical"],
+          "common": "vc"
+        },
+        {
+          "kanji": "不合理",
+          "hiragana": "ふごうり",
+          "english": ["unreasonable", "irrational", "absurd", "inconsistent"],
+          "common": "vc"
+        },
+        {
+          "kanji": "不条理",
+          "hiragana": "ふじょうり",
+          "english": ["absurdity", "irrationality", "inconsistency"],
+          "common": "vc"
+        },
+        {
+          "kanji": "おせち料理",
+          "hiragana": "おせちりょうり",
+          "english": ["food served during the New Year's Holidays"],
+          "common": "vc"
+        },
+        {
+          "kanji": "理",
+          "hiragana": "り",
+          "english": ["reason", "principle", "logic", "general principle (as opposed to individual concrete phenomenon)"],
+          "common": "c"
+        },
+        {
+          "kanji": "理工",
+          "hiragana": "りこう",
+          "english": ["science and technology"],
+          "common": "c"
+        },
+        {
+          "kanji": "理工学部",
+          "hiragana": "りこうがくぶ",
+          "english": ["department of science and engineering"],
+          "common": "c"
+        },
+        {
+          "kanji": "理想的",
+          "hiragana": "りそうてき",
+          "english": ["ideal"],
+          "common": "c"
+        },
+        {
+          "kanji": "理髪",
+          "hiragana": "りはつ",
+          "english": ["haircut"],
+          "common": "c"
+        },
+        {
+          "kanji": "理不尽",
+          "hiragana": "りふじん",
+          "english": ["unreasonable", "irrational"],
+          "common": "c"
+        },
+        {
+          "kanji": "監理",
+          "hiragana": "かんり",
+          "english": ["superintendence", "supervision", "administration"],
+          "common": "c"
+        },
+        {
+          "kanji": "管理者",
+          "hiragana": "かんりしゃ",
+          "english": ["manager", "landlord", "warden", "superintendent", "supervisor", "root (user)"],
+          "common": "c"
+        },
+        {
+          "kanji": "管理職",
+          "hiragana": "かんりしょく",
+          "english": ["management"],
+          "common": "c"
+        },
+        {
+          "kanji": "受理",
+          "hiragana": "じゅり",
+          "english": ["acceptance"],
+          "common": "c"
+        },
+        {
+          "kanji": "条理",
+          "hiragana": "じょうり",
+          "english": ["reason"],
+          "common": "c"
+        },
+        {
+          "kanji": "審理",
+          "hiragana": "しんり",
+          "english": ["trial"],
+          "common": "c"
+        },
+        {
+          "kanji": "摂理",
+          "hiragana": "せつり",
+          "english": ["(divine) providence", "dispensation"],
+          "common": "c"
+        },
+        {
+          "kanji": "天理",
+          "hiragana": "てんり",
+          "english": ["natural laws", "rule of heaven"],
+          "common": "c"
+        },
+        {
+          "kanji": "病理",
+          "hiragana": "びょうり",
+          "english": ["pathology"],
+          "common": "c"
+        },
+        {
+          "kanji": "理想的",
+          "hiragana": "りそうてき",
+          "english": ["ideal"],
+          "common": "c"
+        },
+        {
+          "kanji": "理不尽",
+          "hiragana": "りふじん",
+          "english": ["unreasonable", "irrational"],
+          "common": "c"
+        },
+        {
+          "kanji": "管理者",
+          "hiragana": "かんりしゃ",
+          "english": ["manager", "landlord", "warden", "superintendent", "supervisor", "root (user)"],
+          "common": "c"
+        },
+        {
+          "kanji": "管理職",
+          "hiragana": "かんりしょく",
+          "english": ["management"],
+          "common": "c"
+        },
+        {
+          "kanji": "心理学",
+          "hiragana": "しんりがく",
+          "english": ["psychology"],
+          "common": "c"
+        },
+        {
+          "kanji": "税理士",
+          "hiragana": "ぜいりし",
+          "english": ["tax counsellor", "tax counselor", "licensed tax accountant"],
+          "common": "c"
+        },
+        {
+          "kanji": "総理府",
+          "hiragana": "そうりふ",
+          "english": ["Prime Minister's office", "PMO"],
+          "common": "c"
+        },
+        {
+          "kanji": "代理店",
+          "hiragana": "だいりてん",
+          "english": ["agent", "agency"],
+          "common": "c"
+        },
+        {
+          "kanji": "大理石",
+          "hiragana": "だいりせき",
+          "english": ["marble"],
+          "common": "c"
+        },
+        {
+          "kanji": "物理学",
+          "hiragana": "ぶつりがく",
+          "english": ["physics"],
+          "common": "c"
+        },
+        {
+          "kanji": "料理屋",
+          "hiragana": "りょうりや",
+          "english": ["restaurant"],
+          "common": "c"
+        },
+        {
+          "kanji": "倫理学",
+          "hiragana": "りんりがく",
+          "english": ["ethics", "moral philosophy"],
+          "common": "c"
+        },
+        {
+          "kanji": "倫理的",
+          "hiragana": "りんりてき",
+          "english": ["ethical"],
+          "common": "c"
+        },
+        {
+          "kanji": "生理学",
+          "hiragana": "せいりがく",
+          "english": ["physiology"],
+          "common": "c"
+        },
+        {
+          "kanji": "理工学部",
+          "hiragana": "りこうがくぶ",
+          "english": ["department of science and engineering"],
+          "common": "c"
+        },
+        {
+          "kanji": "情報処理",
+          "hiragana": "じょうほうしょり",
+          "english": ["data processing"],
+          "common": "c"
+        },
+        {
+          "kanji": "自己管理",
+          "hiragana": "じこかんり",
+          "english": ["taking care of something by oneself", "self-management"],
+          "common": "c"
+        },
+        {
+          "kanji": "推理小説",
+          "hiragana": "すいりしょうせつ",
+          "english": ["mystery or detective novel"],
+          "common": "c"
+        },
+        {
+          "kanji": "入国管理局",
+          "hiragana": "にゅうこくかんりきょく",
+          "english": ["immigration office"],
+          "common": "c"
+        },
+        {
+          "kanji": "国土地理院",
+          "hiragana": "こくどちりいん",
+          "english": ["Geographical survey institute"],
+          "common": "c"
+        },
+        {
+          "kanji": "地理情報システム",
+          "hiragana": "ちりじょうほうシステム",
+          "english": ["geographic information system", "GIS"],
+          "common": ""
+        },
+      ]
+    },
+    {
+      character: "池",
+      jlpt: "n2",
+      kunyomi: {
+        "hiragana": ["いけ"],
+      },
+      meaning: {
+        "english": ["pond", "cistern", "pool", "reservoir"]
+      },
+      onyomi: {
+        "katakana": ["チ"],
+      },
+      compounds: [
+        {
+          "kanji": "池",
+          "hiragana": "いけ",
+          "english": ["pond"],
+          "common": "vc"
+        },
+        {
+          "kanji": "電池",
+          "hiragana": "でんち",
+          "english": ["battery"],
+          "common": "vc"
+        },
+        {
+          "kanji": "乾電池",
+          "hiragana": "かんでんち",
+          "english": ["dry cell", "battery"],
+          "common": "vc"
+        },
+        {
+          "kanji": "蓄電池",
+          "hiragana": "ちくでんち",
+          "english": ["storage battery"],
+          "common": "c"
+        },
+        {
+          "kanji": "貯水池",
+          "hiragana": "ちょすいち",
+          "english": ["reservoir"],
+          "common": "c"
+        },
+        {
+          "kanji": "太陽電池",
+          "hiragana": "たいようでんち",
+          "english": ["solar battery"],
+          "common": "c"
+        },
+        {
+          "kanji": "電池切れ",
+          "hiragana": "でんちぎれ",
+          "english": ["flat battery"],
+          "common": "c"
+        },
+      ]
+    },
+    {
+      character: "豆",
+      jlpt: "n1",
+      kunyomi: {
+        "hiragana": ["まめ"]
+      },
+      onyomi: {
+        "katakana": ["トウ", "ズ"]
+      },
+      meaning: {
+        english: ["beans", "pea", "midget"],
+      },
+      compounds: [
+        {
+          "kanji": "豆腐",
+          "hiragana": "とうふ",
+          "english": ["tofu", "bean-curd"],
+          "common": "vc"
+        },
+        {
+          "kanji": "小豆",
+          "hiragana": "あずき",
+          "english": ["adzuki beans"],
+          "common": "vc"
+        },
+        {
+          "kanji": "大豆",
+          "hiragana": "だいず",
+          "english": ["soya bean (soybean)", "soy (Glycine max"],
+          "common": "vc"
+        },
+        {
+          "kanji": "納豆",
+          "hiragana": "なっとう",
+          "english": ["natto (fermented soybeans)"],
+          "common": "vc"
+        },
+        {
+          "kanji": "豆",
+          "hiragana": "まめ",
+          "english": ["legume (esp. edible legumes or their seeds, such as beans, peas, pulses, etc.)", "beans", "peas", "soya bean (soybean)", "soy (Glycine max", "female genitalia (esp. the clitoris)", "kidney", "miniature", "tiny", "child"],
+          "common": "c"
+        },
+        {
+          "kanji": "枝豆",
+          "hiragana": "えだまめ",
+          "english": ["edamame (green soybeans)"],
+          "common": "c"
+        },
+      ]
+    },
+    {
+      character: "直",
+      jlpt: "n3",
+      kunyomi: {
+        "hiragana": ["ただ.ちに", "なお.す", "-なお.す", "なお.る", "なお.き", "す.ぐ"]
+      },
+      onyomi: {
+        "katakana": ["チョク", "ジキ", "ジカ"]
+      },
+      meaning: {
+        english: ["straightaway", "honesty", "frankness", "fix", "repair"],
+      },
+      compounds: [
+        {
+          "kanji": "直",
+          "hiragana": "じき",
+          "english": ["soon", "in a moment", "before long", "shortly", "nearby", "close", "direct", "spot transaction", "cash transaction"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直",
+          "hiragana": "ちょく",
+          "english": ["direct", "in person", "frankness", "honesty", "simplicity", "cheerfulness", "correctness", "being straight", "night duty", "shift (e.g. in a factory)"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直ぐ",
+          "hiragana": "すぐ",
+          "english": ["immediately", "at once", "directly", "soon", "before long", "shortly", "easily", "without difficulty", "right (near)", "nearby", "just (handy)"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直ちに",
+          "hiragana": "ただちに",
+          "english": ["at once", "immediately", "directly", "in person", "automatically"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直に",
+          "hiragana": "じかに",
+          "english": ["immediately", "readily", "directly"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直角",
+          "hiragana": "ちょっかく",
+          "english": ["right angle", "perpendicular"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直感",
+          "hiragana": "ちょっかん",
+          "english": ["intuition", "instinct", "insight", "hunch"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直撃",
+          "hiragana": "ちょくげき",
+          "english": ["direct hit"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直後",
+          "hiragana": "ちょくご",
+          "english": ["immediately following"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直視",
+          "hiragana": "ちょくし",
+          "english": ["looking someone in the eyes", "taking a straight look at something"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直進",
+          "hiragana": "ちょくしん",
+          "english": ["going right on", "going straight ahead"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直接",
+          "hiragana": "ちょくせつ",
+          "english": ["direct", "immediate", "personal", "firsthand"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直前",
+          "hiragana": "ちょくぜん",
+          "english": ["just before"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直線",
+          "hiragana": "ちょくせん",
+          "english": ["straight line"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直通",
+          "hiragana": "ちょくつう",
+          "english": ["direct communication"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直列",
+          "hiragana": "ちょくれつ",
+          "english": ["series (e.g. electrical)", "serial"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直径",
+          "hiragana": "ちょっけい",
+          "english": ["diameter"],
+          "common": "vc"
+        },
+        {
+          "kanji": "見直す",
+          "hiragana": "みなおす",
+          "english": ["to look again", "to get a better opinion of"],
+          "common": "vc"
+        },
+        {
+          "kanji": "垂直",
+          "hiragana": "すいちょく",
+          "english": ["vertical", "perpendicular"],
+          "common": "vc"
+        },
+        {
+          "kanji": "正直",
+          "hiragana": "しょうじき",
+          "english": ["honesty", "integrity", "frankness", "honestly", "frankly"],
+          "common": "vc"
+        },
+        {
+          "kanji": "素直",
+          "hiragana": "すなお",
+          "english": ["obedient", "meek", "docile", "unaffected", "honest", "frank"],
+          "common": "vc"
+        },
+        {
+          "kanji": "仲直り",
+          "hiragana": "なかなおり",
+          "english": ["reconciliation", "make peace with"],
+          "common": "vc"
+        },
+        {
+          "kanji": "率直",
+          "hiragana": "そっちょく",
+          "english": ["frankness", "candour", "candor", "openheartedness", "directness"],
+          "common": "vc"
+        },
+        {
+          "kanji": "思い直す",
+          "hiragana": "おもいなおす",
+          "english": ["to re-think", "to think back upon", "to change one's mind"],
+          "common": "vc"
+        },
+        {
+          "kanji": "持ち直す",
+          "hiragana": "もちなおす",
+          "english": ["to recover", "to rally", "to improve", "to pick up"],
+          "common": "vc"
+        },
+        {
+          "kanji": "書き直す",
+          "hiragana": "かきなおす",
+          "english": ["to write out", "to make a fair copy", "to rewrite"],
+          "common": "vc"
+        },
+        {
+          "kanji": "立ち直る",
+          "hiragana": "たちなおる",
+          "english": ["to regain one's footing", "to get back on one's feet", "to recover", "(of the market) to improve"],
+          "common": "vc"
+        },
+        {
+          "kanji": "真っ直ぐ",
+          "hiragana": "まっすぐ",
+          "english": ["straight (ahead)", "direct", "upright", "erect", "straightforward", "honest", "frank"],
+          "common": "vc"
+        },
+        {
+          "kanji": "やり直し",
+          "hiragana": "やりなおし",
+          "english": ["redoing"],
+          "common": "vc"
+        },
+        {
+          "kanji": "やり直す",
+          "hiragana": "やりなおす",
+          "english": ["to do over again", "to redo", "to start over", "to remake", "to resume", "to recommence"],
+          "common": "vc"
+        },
+        {
+          "kanji": "立て直す",
+          "hiragana": "たてなおす",
+          "english": ["to rally", "to make over", "to rearrange", "to reorganize", "to reorganise"],
+          "common": "vc"
+        },
+        {
+          "kanji": "直し",
+          "hiragana": "なおし",
+          "english": ["correction", "rectification", "mending", "repair"],
+          "common": "c"
+        },
+        {
+          "kanji": "直営",
+          "hiragana": "ちょくえい",
+          "english": ["direct management"],
+          "common": "c"
+        },
+        {
+          "kanji": "直下",
+          "hiragana": "ちょっか",
+          "english": ["directly under", "price cut", "fall perpendicularly"],
+          "common": "c"
+        },
+        {
+          "kanji": "直轄",
+          "hiragana": "ちょっかつ",
+          "english": ["direct control"],
+          "common": "c"
+        },
+        {
+          "kanji": "直系",
+          "hiragana": "ちょっけい",
+          "english": ["direct descent", "direct line"],
+          "common": "c"
+        },
+        {
+          "kanji": "直行",
+          "hiragana": "ちょっこう",
+          "english": ["through", "non-stop"],
+          "common": "c"
+        },
+        {
+          "kanji": "直接税",
+          "hiragana": "ちょくせつぜい",
+          "english": ["direct tax"],
+          "common": "c"
+        },
+        {
+          "kanji": "直接的",
+          "hiragana": "ちょくせつてき",
+          "english": ["direct"],
+          "common": "c"
+        },
+        {
+          "kanji": "直属",
+          "hiragana": "ちょくぞく",
+          "english": ["direct control", "direct supervision"],
+          "common": "c"
+        },
+        {
+          "kanji": "直面",
+          "hiragana": "ちょくめん",
+          "english": ["confrontation", "to face", "to confront", "to encounter"],
+          "common": "c"
+        },
+        {
+          "kanji": "直球",
+          "hiragana": "ちょくきゅう",
+          "english": ["straight ball (pitch)", "straight", "frank"],
+          "common": "c"
+        },
+        {
+          "kanji": "直接選挙",
+          "hiragana": "ちょくせつせんきょ",
+          "english": ["direct election"],
+          "common": "c"
+        },
+        {
+          "kanji": "一直線",
+          "hiragana": "いっちょくせん",
+          "english": ["straight line"],
+          "common": "c"
+        },
+        {
+          "kanji": "見直し",
+          "hiragana": "みなおし",
+          "english": ["review", "reconsideration", "revision"],
+          "common": "c"
+        },
+        {
+          "kanji": "硬直",
+          "hiragana": "こうちょく",
+          "english": ["stiffening", "rigidity", "rigor", "stiffness", "ossification", "petrification"],
+          "common": "c"
+        },
+        {
+          "kanji": "手直し",
+          "hiragana": "てなおし",
+          "english": ["adjustment", "tweaking", "improvement", "modification", "tinkering", "minor alteration", "correction"],
+          "common": "c"
+        },
+        {
+          "kanji": "出直し",
+          "hiragana": "でなおし",
+          "english": ["adjustment", "touch up"],
+          "common": "c"
+        },
+        {
+          "kanji": "当直",
+          "hiragana": "とうちょく",
+          "english": ["on duty", "on a shift", "keeping watch"],
+          "common": "c"
+        },
+        {
+          "kanji": "開き直る",
+          "hiragana": "ひらきなおる",
+          "english": ["to become defiant", "to turn upon", "to become serious"],
+          "common": "c"
+        },
+        {
+          "kanji": "考え直す",
+          "hiragana": "かんがえなおす",
+          "english": ["to reconsider", "to rethink", "to reassess"],
+          "common": "c"
+        },
+        {
+          "kanji": "立ち直り",
+          "hiragana": "たちなおり",
+          "english": ["recovery", "restoration"],
+          "common": "c"
+        },
+      ]
+    },
+    {
+      character: "企",
+      jlpt: "n1",
+      kunyomi: {
+        "hiragana": ["くわだ.てる", "たくら.む"]
+      },
+      onyomi: {
+        "katakana": ["キ"]
+      },
+      meaning: {
+        english: ["undertake", "scheme", "design", "attempt", "plan"],
+      },
+      compounds: [
+        {
+          "kanji": "企み",
+          "hiragana": "たくらみ",
+          "english": ["plan", "design", "artifice", "trick", "intrigue"],
+          "common": "vc"
+        },
+        {
+          "kanji": "企む",
+          "hiragana": "たくらむ",
+          "english": ["to scheme", "to plan", "to play a trick", "to invent", "to conspire", "to frame up"],
+          "common": "vc"
+        },
+        {
+          "kanji": "企画",
+          "hiragana": "きかく",
+          "english": ["planning", "project", "plan", "design"],
+          "common": "vc"
+        },
+        {
+          "kanji": "企業",
+          "hiragana": "企業",
+          "english": ["enterprise", "undertaking", "corporation", "business"],
+          "common": "vc"
+        },
+        {
+          "kanji": "企てる",
+          "hiragana": "くわだてる",
+          "english": ["to plan", "to design", "to plot", "to propose", "to intend", "to contemplate", "to attempt", "to undertake"],
+          "common": "vc"
+        },
+        {
+          "kanji": "企図",
+          "hiragana": "きと",
+          "english": ["plan", "project", "scheme"],
+          "common": "c"
+        },
+        {
+          "kanji": "企業家",
+          "hiragana": "きぎょうか",
+          "english": ["industrialist", "entrepreneur"],
+          "common": "c"
+        },
+        {
+          "kanji": "企画室",
+          "hiragana": "きかくしつ",
+          "english": ["planning office"],
+          "common": "c"
+        },
+        {
+          "kanji": "経企庁",
+          "hiragana": "けいきちょう",
+          "english": ["Economic Planning Agency"],
+          "common": "c"
+        },
+        {
+          "kanji": "大企業",
+          "hiragana": "だいきぎょう",
+          "english": ["large company", "enterprise"],
+          "common": "c"
+        },
+        {
+          "kanji": "私企業",
+          "hiragana": "しきぎょう",
+          "english": ["private enterprise"],
+          "common": "c"
+        },
+        {
+          "kanji": "中小企業",
+          "hiragana": "ちゅうしょうきぎょう",
+          "english": ["small to medium enterprises", "smaller companies"],
+          "common": "c"
+        },
+        {
+          "kanji": "日本企業",
+          "hiragana": "にほんきぎょう",
+          "english": ["Japanese company (business, firm)"],
+          "common": "c"
+        },
+      ]
+    },
+    {
+      character: "業",
+      jlpt: "n4",
+      kunyomi: {
+        "hiragana": ["わざ"]
+      },
+      onyomi: {
+        "katakana": ["ギョウ", "ゴウ"]
+      },
+      meaning: {
+        english: ["business", "vocation", "arts", "performance"],
+      },
+      compounds: [
+        {
+          "kanji": "業界",
+          "hiragana": "ぎょうかい",
+          "english": ["industry", "business"],
+          "common": "vc"
+        },
+      ]
+    },
+    {
+      character: "組",
+      jlpt: "n3",
+      kunyomi: {
+        "hiragana": ["く.む", "くみ", "-ぐみ"]
+      },
+      onyomi: {
+        "katakana": ["ソ"]
+      },
+      meaning: {
+        english: ["association", "braid", "plait", "construct", "assemble", "unite", "cooperate", "grapple"],
+      },
+      compounds: [
+        {
+          "kanji": "組",
+          "hiragana": "くみ",
+          "english": ["set (of items)", "group (of people)", "class (of students)", "company (esp. construction)", "family (i.e. mafia)", "team", "typesetting", "composition"],
+          "common": "vc"
+        },
+      ]
+    },
+    {
+      character: "織",
+      jlpt: "n1",
+      kunyomi: {
+        "hiragana": ["お.る", "お.り", "おり", "-おり", "-お.り"]
+      },
+      onyomi: {
+        "katakana": ["ショク", "シキ"]
+      },
+      meaning: {
+        english: ["weave", "fabric"],
+      },
+      compounds: [
+        {
+          "kanji": "織る",
+          "hiragana": "おる",
+          "english": ["to weave"],
+          "common": "vc"
+        },
+      ]
+    },
+    {
+      character: "行",
+      jlpt: "n5",
+      kunyomi: {
+        "hiragana": ["い.く", "ゆ.く", "-ゆ.き", "-ゆき", "-い.き", "-いき", "おこな.う", "おこ.なう"]
+      },
+      onyomi: {
+        "katakana": ["コウ", "ギョウ", "アン"]
+      },
+      meaning: {
+        english: ["going", "journey"],
+      },
+      compounds: [
+        {
+          "kanji": "行",
+          "hiragana": "ぎょう",
+          "english": ["line (i.e. of text)", "row", "verse", "carya (austerities)", "samskara (formations)", "running script (a semi-cursive style of kanji)"],
+          "common": "vc"
+        },
+      ]
+    },
+    {
+      character: "活",
+      jlpt: "n3",
+      kunyomi: {
+        "hiragana": ["", "お.り", "おり", "-おり", "-お.り"]
+      },
+      onyomi: {
+        "katakana": ["ショク", "シキ"]
+      },
+      meaning: {
+        english: ["weave", "fabric"],
+      },
+      compounds: [
+        {
+          "kanji": "織る",
+          "hiragana": "おる",
+          "english": ["to weave"],
+          "common": "vc"
+        },
+      ]
+    },
+    //här
+  ]
+}  
